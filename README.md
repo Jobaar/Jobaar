@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Jobaar Hossain</h1>
-<h3 align="center">🎓 Fresh EEE Graduate from Brac Universityr</h3>
+<h3 align="center">🎓 Fresh EEE Graduate from Brac University</h3>
 
 **🔌 Skills & Expertise**
 
